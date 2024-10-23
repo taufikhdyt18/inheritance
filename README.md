@@ -140,3 +140,10 @@ Membuat objek Manager dan Programmer.
 Mengatur nilai atribut menggunakan metode setter.
 Memanggil cetakInfo() untuk menampilkan informasi lengkap masing-masing objek di konsol.
 ```
+### Output
+![image](sst4/ss1.png)
+```
+Output dari program ini akan menampilkan data seorang Manager
+bernama Budi dengan gaji pokok dan tunjangan,
+serta seorang Programmer bernama Ani dengan gaji pokok dan bonus.
+```
