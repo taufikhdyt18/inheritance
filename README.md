@@ -143,6 +143,9 @@ Memanggil cetakInfo() untuk menampilkan informasi lengkap masing-masing objek di
 ### Output
 ![image](sst4/ss1.png)
 - Penjelaasan
+
+
+### Selesai 
 ```
 Output dari program ini akan menampilkan data seorang Manager
 bernama Budi dengan gaji pokok dan tunjangan,
